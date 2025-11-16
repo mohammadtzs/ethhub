@@ -11,7 +11,7 @@ The Docs section, where you are now, is the core of EthHub. This documentation i
 If you're new to Ethereum, [start at this guide](https://docs.ethhub.io/using-ethereum/ethereum-new-user-guide/).
 
 ## How to make changes to EthHub pages
-1. Head on over to the [EthHub's Github repo](https://github.com/ethhub-io/ethhub).
+1. Head on over to the [EthHub's Github repo](https://github.com/ethhub-io/ethhub)..
 2. Create a new Github account or login into your existing account
 3. [Follow this great guide to learn how to make your first pull request](https://www.youtube.com/watch?v=YTbRzhQju4c&t=1s)
 
